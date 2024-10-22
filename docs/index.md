@@ -1,25 +1,6 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "LuanPT"
-  text: "Under construction ..."
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+title: About Me
+description: A brief introduction to who I am and what I do.
 ---
 
+"Being a Cloud Engineer is like being a digital meteorologist—always predicting the forecast, but instead of rain, it's about keeping the servers from raining down chaos!"
